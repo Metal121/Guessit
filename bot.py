@@ -53,4 +53,4 @@ async def startgtn(ctx, message: discord.Message = None):
 			else:
 				continue
 
-client.run(str(os.environ.get('BOT_TOKEN')))
+client.run(str(os.environ.get('NTQ3ODc5NDM2NTU3NDg0MDQy.XKj-BQ.k8F5cEHkedtG0h9REPJnfIc02K0')))
