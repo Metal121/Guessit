@@ -1,19 +1,14 @@
 import discord
 from discord.ext import commands
-from utils.config import Config
 import sqlite3
 import utils
 import random
 import os
 import asyncio
 
-config = Config()
-
 print("Connecting...")
 
-TOKEN = config.token
-
-client = commands.Bot(command_prefix = config.command_prefix)
+client = commands.Bot(command_prefix = "!")
 
 
 @client.event
