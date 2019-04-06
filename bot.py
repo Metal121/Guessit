@@ -4,6 +4,8 @@ from utils.config import Config
 import sqlite3
 import utils
 import random
+import os
+import asyncio
 
 config = Config()
 
