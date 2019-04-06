@@ -1,5 +1,1 @@
-discord
-pymore
-asyncio
-https://github.com/Rapptz/discord.py/archive/rewrite.zip
-utils
+discordpy 
