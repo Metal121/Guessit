@@ -5,6 +5,7 @@ import asyncio
 import random
 import requests
 import os
+import sqlite3
 
 print("Connecting...")
 
