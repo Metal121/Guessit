@@ -1,10 +1,10 @@
 import discord
 from discord.ext import commands
-import sqlite3
-import utils
-import random
-import os
+from discord.ext.commands import Bot
 import asyncio
+import random
+import requests
+import os
 
 print("Connecting...")
 
